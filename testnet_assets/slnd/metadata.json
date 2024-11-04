@@ -1,0 +1,6 @@
+{
+  "name": "blendySLND",
+  "symbol": "B_SLND",
+  "description": "Test token for SLND on Blendy",
+  "image": "https://raw.githubusercontent.com/BlendyFi/faucet_token_assets/main/testnet_assets/slnd/slnd.png"
+}

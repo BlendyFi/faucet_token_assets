@@ -1,0 +1,6 @@
+{
+  "name": "blendyORCA",
+  "symbol": "B_ORCA",
+  "description": "Test token for ORCA on Blendy",
+  "image": "https://raw.githubusercontent.com/BlendyFi/faucet_token_assets/main/testnet_assets/orca/orca.png"
+}

@@ -1,6 +1,6 @@
 {
-  "name": "blendyBONK",
-  "symbol": "B_BONK",
-  "description": "Test token for BONK on Blendy",
+  "name": "blendyDofWifHat",
+  "symbol": "B_WIFHAT",
+  "description": "Test token for WIFHAT on Blendy",
   "image": "https://raw.githubusercontent.com/BlendyFi/faucet_token_assets/main/testnet_assets/dogwifhat/dogwifhat-wif-logo.png"
 }

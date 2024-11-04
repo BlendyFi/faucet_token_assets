@@ -1,0 +1,6 @@
+{
+  "name": "blendyWSTETH",
+  "symbol": "B_WSTETH",
+  "description": "Test token for WSTETH on Blendy",
+  "image": "https://raw.githubusercontent.com/BlendyFi/faucet_token_assets/main/testnet_assets/wsteth/wstETH.png"
+}

@@ -1,6 +1,6 @@
 {
-  "name": "blendyBONK",
-  "symbol": "B_BONK",
-  "description": "Test token for BONK on Blendy",
+  "name": "blendyJUPSOL",
+  "symbol": "B_JUPSOL",
+  "description": "Test token for JUPSOL on Blendy",
   "image": "https://raw.githubusercontent.com/BlendyFi/faucet_token_assets/main/testnet_assets/jupsol/JupSOL.png"
 }
